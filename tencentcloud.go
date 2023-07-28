@@ -3,7 +3,7 @@ package tencentcloud
 import (
 	caddy "github.com/caddyserver/caddy/v2"
 	"github.com/caddyserver/caddy/v2/caddyconfig/caddyfile"
-	"github.com/libdns/tencentcloud"
+	"github.com/walktoend/libdns-tencentcloud"
 )
 
 // Provider wraps the provider implementation as a Caddy module.

@@ -1,10 +1,10 @@
-module github.com/caddy-dns/tencentcloud
+module github.com/walktoend/caddy-dns-tencentcloud
 
 go 1.18
 
 require (
 	github.com/caddyserver/caddy/v2 v2.6.4
-	github.com/libdns/tencentcloud v1.0.0
+	github.com/walktoend/libdns-tencentcloud v1.0.1
 )
 
 require (
